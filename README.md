@@ -3,8 +3,8 @@
 **Ejemplo de Word Cloud / Tag Cloud PEC2 Visualización de Datos**
 
 Muestra la tendencia por categorías, de los juegos que más están creciendo dentro de la tienda Android Store en los últimos 60 días.
-Vemos que los juegos de estrategia (GAME STRATEGY) son los que más están creciendo.
-De esta forma podemos comprobar la tendencia dentro del mercado y centrar nuestr próximo proyecto dentro de alguno de ellos.
+Vemos que los juegos de cartas (GAME CARD) son los que más están creciendo.
+De esta forma podemos comprobar la tendencia dentro del mercado y centrar nuestro próximo proyecto dentro de alguno de ellos.
 
 **Creado por:**
 Francisco José Ramírez Vicente
