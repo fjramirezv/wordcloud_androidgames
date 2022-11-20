@@ -6,7 +6,7 @@ Muestra la tendencia por categorías, de los juegos que más están creciendo de
 Vemos que los juegos de estrategia (GAME STRATEGY) son los que más están creciendo.
 De esta forma podemos comprobar la tendencia dentro del mercado y centrar nuestr próximo proyecto dentro de alguno de ellos.
 
-**Creado por: **
+**Creado por:**
 Francisco José Ramírez Vicente
 
 **Realizado con:**
